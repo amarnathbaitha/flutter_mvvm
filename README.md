@@ -16,9 +16,14 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 In this project I have created a user list with the following features.
+I am using this link for network calling and use username pasword from this link.
+https://reqres.in/
+1.saved user session.
+2. Login and singup page.
+3. List of users.
+4. Splash screen.
 
-saved user session.
-Login and singup page.
-List of users.
-Splash screen.
-There are the complete flow of the following features a. MVVM b. provider c. clean architecture
+There are the complete flow of the following features 
+a. MVVM 
+b. provider 
+c. clean architecture
