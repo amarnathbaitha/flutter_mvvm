@@ -38,6 +38,7 @@ class _LoginScreenState extends State<LoginScreen> {
         title: const Text("Login"),
         centerTitle: true,
         backgroundColor: Colors.blueAccent,
+        automaticallyImplyLeading: false
       ),
       body: SafeArea(
         child: Column(
